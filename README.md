@@ -8,7 +8,7 @@ SFL TAPS Skip
 5. When the new window open, click into the moudel
 6. Right click and open  "inspect"
 7. Click console
-8. Paste the "CONSOLE_CODE"
+8. Paste the "CONSOLE_CODE" (Copy all the code from CONSOLE_CODE)
 9. Close the windows and now that part is complected.
 10. Repeat till done
 
