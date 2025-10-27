@@ -6,6 +6,7 @@ SFL TAPS Skip
 3. Open the moudle you need to get done
 4. Click "GO" to open the moudel
 5. When the new window open, click into the moudel
+5A. For "Financial Planning for Transition" and "VA Benefits and Services" , "CONSOLE_CODE" must be sumbited before moudel loads(do it 2-6 times)
 6. Right click and open  "inspect"
 7. Click console
 8. Paste the "CONSOLE_CODE" (Copy all the code from CONSOLE_CODE)
